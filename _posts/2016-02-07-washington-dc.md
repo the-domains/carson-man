@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://www.mountvernon.org/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T03:29:25.622Z'
-dateModified: '2016-02-07T03:29:23.821Z'
+datePublished: '2016-02-07T03:30:51.667Z'
+dateModified: '2016-02-07T03:30:49.801Z'
 title: 'Washington DC!'
 author: []
 sourcePath: _posts/2016-02-07-washington-dc.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: washington-dc/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Washington DC!
