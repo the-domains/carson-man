@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Carson Man!]]></title>
-        <description><![CDATA[Carson Man!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Keeping up with Carson]]></title>
+        <description><![CDATA[Keeping up with Carson]]></description>
+        <link>https://thegrid.ai/carson-man/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 02:48:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 03:04:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carson-man/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Washington DC!]]></title>
-            <description><![CDATA[<article><h1>Washington DC!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e47789a05b6bd1fa312273d51c5b6f7ba38064ca.jpg"></article>]]></description>
-            <link>undefinedwashington-dc/index.html</link>
+            <description><![CDATA[<article><h1>Washington DC!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/952e7e1b775318772eebb3135c94d23f80ed08a2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/carson-man/washington-dc/index.html</link>
             <guid isPermaLink="false">cc832454-fee8-4fc5-b6b5-c508e1a865f2</guid>
-            <pubDate>Sun, 07 Feb 2016 02:48:32 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 03:04:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
