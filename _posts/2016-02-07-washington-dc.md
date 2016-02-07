@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T03:04:00.203Z'
-dateModified: '2016-02-07T03:03:51.190Z'
+datePublished: '2016-02-07T03:09:44.304Z'
+dateModified: '2016-02-07T03:07:45.466Z'
 title: 'Washington DC!'
 author: []
 sourcePath: _posts/2016-02-07-washington-dc.md
