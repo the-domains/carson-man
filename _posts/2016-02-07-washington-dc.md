@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T04:11:13.615Z'
-dateModified: '2016-02-07T04:11:11.218Z'
+datePublished: '2016-02-07T04:10:38.444Z'
+dateModified: '2016-02-07T04:10:29.902Z'
 title: 'Washington DC!'
 author: []
 sourcePath: _posts/2016-02-07-washington-dc.md
