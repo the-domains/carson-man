@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Fall is Tailgate Time
-datePublished: '2016-02-07T05:01:01.530Z'
-dateModified: '2016-02-07T05:00:59.122Z'
+datePublished: '2016-02-07T05:02:43.104Z'
+dateModified: '2016-02-07T05:02:41.327Z'
 title: School Pictures - Fall 2015
 author: []
 sourcePath: _posts/2016-02-07-school-pictures-fall-2015.md
