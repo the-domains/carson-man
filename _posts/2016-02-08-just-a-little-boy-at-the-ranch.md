@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://1drv.ms/1nQfN4t'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-08T21:47:32.589Z'
-dateModified: '2016-02-08T21:47:29.674Z'
+datePublished: '2016-02-08T22:24:56.144Z'
+dateModified: '2016-02-08T22:24:55.039Z'
 title: Just a little boy at the ranch.
 author: []
 sourcePath: _posts/2016-02-08-just-a-little-boy-at-the-ranch.md
