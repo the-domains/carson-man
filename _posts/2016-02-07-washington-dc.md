@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T17:08:55.626Z'
-dateModified: '2016-02-08T17:08:51.701Z'
+datePublished: '2016-02-08T17:13:00.844Z'
+dateModified: '2016-02-08T17:12:56.778Z'
 title: 'Washington DC!'
 author: []
 sourcePath: _posts/2016-02-07-washington-dc.md
@@ -37,6 +37,8 @@ Lincoln Memorial is Uncle Nick favorite place, and he snapped this great photo o
 ## Washington Monument and National Mall.
 
 It was great to get out and walk around the sites.  No Forest Gump sighting in the pool.  ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0d3a8de98862a3c7c8eb1d0e0db16a4/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F52a5211a8970a7250d41ba65f386dad2064a3cb5.jpg)
+
+## Smithsonian's National Air and Space Museum.
 
 I was probably most excited to go see all the amazing aircraft and share them with Carson and Nick.  So much history that changed the world based off flight.  So proud of Nick for working on the next pieces to be hanging from the rafters.
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/656eda1d049b97a6aa1ac471b32be8b1/passthrough.jpg?height=500&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F108e577f8cd0662005b6482867891d22ffcefb1a.jpg&width=750)
