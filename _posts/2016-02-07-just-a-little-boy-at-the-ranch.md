@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-08T19:40:24.222Z'
-dateModified: '2016-02-08T19:40:21.669Z'
+datePublished: '2016-02-08T19:43:28.851Z'
+dateModified: '2016-02-08T19:43:26.470Z'
 title: Just a little boy at the ranch.
 author: []
 sourcePath: _posts/2016-02-07-just-a-little-boy-at-the-ranch.md
@@ -23,4 +23,4 @@ _type: MediaObject
 
 ---
 # Just a little boy at the ranch.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3aba83fa-3eff-47f0-9c74-cae4b23d2aaf.PNG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7940f9c371dc2c516851f36b202f0c84c6e2fcc8.png)
