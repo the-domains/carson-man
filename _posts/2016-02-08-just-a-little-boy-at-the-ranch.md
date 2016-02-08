@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://1drv.ms/1nQfN4t'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T19:48:06.468Z'
-dateModified: '2016-02-08T19:47:53.583Z'
+datePublished: '2016-02-08T21:47:32.589Z'
+dateModified: '2016-02-08T21:47:29.674Z'
 title: Just a little boy at the ranch.
 author: []
+sourcePath: _posts/2016-02-08-just-a-little-boy-at-the-ranch.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-just-a-little-boy-at-the-ranch.md
-published: true
-url: just-a-little-boy-at-the-ranch/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Just a little boy at the ranch.
