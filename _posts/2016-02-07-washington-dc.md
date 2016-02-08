@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T18:54:12.609Z'
-dateModified: '2016-02-08T18:54:10.589Z'
+datePublished: '2016-02-08T18:56:37.857Z'
+dateModified: '2016-02-08T18:56:35.842Z'
 title: 'Washington DC!'
 author: []
 sourcePath: _posts/2016-02-07-washington-dc.md
@@ -27,12 +27,12 @@ _type: Article
 ## Mount Vernon
 
 Our first stop in DC was to Mount Vernon.  It was absolutely beautiful just as fall was starting to put some color in the trees.  Carson loved the farm area where there were sheep and pumpkins.  Carson loves the Peanuts show right now about the Great Pumpkin, so he was right at home.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/002c83b191db105c3ad22c092fa9a9c9ff523630.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab51b15f5e6d67738cc0f15ec36fe70f767e5fb1.jpg)
 
 ## Lincoln Memorial
 
 Lincoln Memorial is Uncle Nick favorite place, and he snapped this great photo of us.
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c5880399a9344baa0a4f6284ca74f7e/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fed260c206309a9dc0741ba1732455ad707a64459.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc692114c42f56b37a85611004a4fd984d6528ea.jpg)
 
 ## Washington Monument and National Mall.
 
