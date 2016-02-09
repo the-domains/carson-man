@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.facebook.com/photo.php?fbid=10107695795256494&set=a.10100226772797374.2925699.8367502&type=3&theater'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T14:01:00.720Z'
-dateModified: '2016-02-09T14:00:28.234Z'
+datePublished: '2016-02-09T14:04:30.046Z'
+dateModified: '2016-02-09T14:03:18.473Z'
 author: []
 title: "New #1 in Carson's life is \"Sandy\" from Grease, who happens to be our sweet neighbor! \"Kylee sing again!\""
 sourcePath: _posts/2016-02-08-new-1-in-carsons-life-is-sandy-from-grease-who-happens.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.facebook.com
   url: null
   favicon: null
+url: new-1-in-carsons-life-is-sandy-from-grease-who-happens/index.html
 _context: 'http://schema.org'
 _type: Article
 
