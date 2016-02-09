@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T13:57:29.228Z'
-dateModified: '2016-02-09T13:57:14.644Z'
+datePublished: '2016-02-09T14:01:00.720Z'
+dateModified: '2016-02-09T14:00:28.234Z'
 author: []
 title: "New #1 in Carson's life is \"Sandy\" from Grease, who happens to be our sweet neighbor! \"Kylee sing again!\""
 sourcePath: _posts/2016-02-08-new-1-in-carsons-life-is-sandy-from-grease-who-happens.md
@@ -26,5 +26,5 @@ _type: Article
 # New \#1 in Carson's life is "Sandy" from Grease, who happens to be our sweet neighbor! "Kylee sing again!"
 ![](https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/12717413_10107695795256494_861705954886390405_n.jpg?oh=d29753bd30501993a591b28c38919576&oe=576BC0E4)
 
-Got the picture back from our neighbor's camera, and Carson clearly had a reason to be so smirky.
+## Got the picture back from our neighbor's camera, and Carson clearly had a reason to be so smirky.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da7b1fe4bd2d45fe5cfcec5e889c26a7f77f7841.jpg)
