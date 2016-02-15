@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T19:27:42.129Z'
-dateModified: '2016-02-08T19:27:40.189Z'
+datePublished: '2016-02-15T16:16:18.130Z'
+dateModified: '2016-02-15T16:16:16.312Z'
 title: Washington Monument and National Mall
 author: []
 sourcePath: _posts/2016-02-08-washington-monument-and-national-mall.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: washington-monument-and-national-mall/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Washington Monument and National Mall
