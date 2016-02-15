@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T19:25:07.039Z'
-dateModified: '2016-02-08T19:25:05.275Z'
+datePublished: '2016-02-15T16:15:52.152Z'
+dateModified: '2016-02-15T16:15:45.945Z'
 title: The White House
 author: []
 sourcePath: _posts/2016-02-08-the-white-house.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-white-house/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The White House
