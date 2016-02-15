@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T22:22:21.750Z'
-dateModified: '2016-02-08T22:21:21.929Z'
+datePublished: '2016-02-15T16:08:44.568Z'
+dateModified: '2016-02-15T16:08:42.941Z'
 title: "You don't need snow to sled when you are at White Sands, NM."
 author: []
+sourcePath: _posts/2016-02-08-you-dont-need-snow-to-sled-when-you-are-at-white-sands-nm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-you-dont-need-snow-to-sled-when-you-are-at-white-sands-nm.md
-published: true
 url: you-dont-need-snow-to-sled-when-you-are-at-white-sands-nm/index.html
 _type: Article
 
 ---
 # You don't need snow to sled when you are at White Sands, NM.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92e349449b0f3d25098bd25012d7910bf3aec1f5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75e0751c7aab7aceb6a22a07aa3a2c747a02e679.jpg)
