@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T22:22:05.828Z'
-dateModified: '2016-02-08T22:20:53.102Z'
+datePublished: '2016-02-15T16:15:10.846Z'
+dateModified: '2016-02-15T16:15:06.858Z'
 title: Some serious snow in Ruidoso
 author: []
+sourcePath: _posts/2016-02-08-some-serious-snow-in-ruidoso.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-some-serious-snow-in-ruidoso.md
-published: true
-url: some-serious-snow-in-ruidoso/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Some serious snow in Ruidoso
