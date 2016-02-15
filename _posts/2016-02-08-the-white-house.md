@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T16:15:52.152Z'
-dateModified: '2016-02-15T16:15:45.945Z'
+datePublished: '2016-02-15T16:33:03.627Z'
+dateModified: '2016-02-15T16:33:01.491Z'
 title: The White House
 author: []
 sourcePath: _posts/2016-02-08-the-white-house.md
@@ -19,10 +18,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: the-white-house/index.html
+_type: Article
 
 ---
 # The White House
 
 When in DC you have to stop by and see the White House.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb1edd38369a648353d713a4049f7632cc823097.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/89aef2e304ff39fe246a68db127f042d94ff5be0.jpg)
