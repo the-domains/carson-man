@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T19:27:11.765Z'
-dateModified: '2016-02-08T19:27:09.596Z'
+datePublished: '2016-02-15T16:16:06.058Z'
+dateModified: '2016-02-15T16:16:04.082Z'
 title: "Smithsonian's National Air and Space Museum"
 author: []
 sourcePath: _posts/2016-02-08-smithsonians-national-air-and-space-museum.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: smithsonians-national-air-and-space-museum/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Smithsonian's National Air and Space Museum
