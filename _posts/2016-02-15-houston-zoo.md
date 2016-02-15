@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T16:44:46.003Z'
-dateModified: '2016-02-15T16:43:46.644Z'
+datePublished: '2016-02-15T16:47:16.530Z'
+dateModified: '2016-02-15T16:47:14.852Z'
 title: 'Houston Zoo!'
 author: []
+sourcePath: _posts/2016-02-15-houston-zoo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-houston-zoo.md
-published: true
 url: houston-zoo/index.html
 _type: Article
 
 ---
 # Houston Zoo!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/074b32d3-0380-418c-81f7-6a96e4a981b9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b3cfe7a586401b3b1d5c0482f7b549b0b30ed5f.jpg)
 
 Carson says WOW!
