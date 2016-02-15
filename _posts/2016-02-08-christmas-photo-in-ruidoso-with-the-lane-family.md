@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T16:15:21.845Z'
-dateModified: '2016-02-15T16:15:19.925Z'
+datePublished: '2016-02-15T16:32:14.368Z'
+dateModified: '2016-02-15T16:32:12.245Z'
 title: Christmas Photo in Ruidoso with the Lane Family
 author: []
 sourcePath: _posts/2016-02-08-christmas-photo-in-ruidoso-with-the-lane-family.md
@@ -19,8 +18,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: christmas-photo-in-ruidoso-with-the-lane-family/index.html
+_type: Article
 
 ---
 # Christmas Photo in Ruidoso with the Lane Family
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d137804b646b541eed2ba3211eaf2b71107cb97.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/483c77a122e87b7b1a48b52d6073898635883ab3.jpg)
