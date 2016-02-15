@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T16:47:16.530Z'
-dateModified: '2016-02-15T16:47:14.852Z'
+datePublished: '2016-02-15T18:44:28.770Z'
+dateModified: '2016-02-15T18:44:25.268Z'
 title: 'Houston Zoo!'
 author: []
 sourcePath: _posts/2016-02-15-houston-zoo.md
@@ -25,4 +25,4 @@ _type: Article
 # Houston Zoo!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b3cfe7a586401b3b1d5c0482f7b549b0b30ed5f.jpg)
 
-Carson says WOW!
+## Carson says WOW!
