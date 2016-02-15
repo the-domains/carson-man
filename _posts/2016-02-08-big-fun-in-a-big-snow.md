@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T16:29:00.573Z'
-dateModified: '2016-02-15T16:28:47.202Z'
+datePublished: '2016-02-15T16:31:18.209Z'
+dateModified: '2016-02-15T16:31:15.436Z'
 title: 'Big fun in a big snow!'
 author: []
 sourcePath: _posts/2016-02-08-big-fun-in-a-big-snow.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 # Big fun in a big snow!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/24af8e109464ea7d3cdc6978ee163880bb33164c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5bf58fcc30550f989915c4a080b2c4b4fcafc9bd.jpg)
