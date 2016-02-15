@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T19:30:59.565Z'
-dateModified: '2016-02-08T19:30:57.400Z'
+datePublished: '2016-02-15T16:16:32.715Z'
+dateModified: '2016-02-15T16:16:30.019Z'
 title: "Lincoln Memorial\_"
 author: []
 sourcePath: _posts/2016-02-08-lincoln-memorial.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: lincoln-memorial/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Lincoln Memorial 
