@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Sneaking a kiss with Mommy on Valentines Day at the Houston Zoo Carousel. '
-datePublished: '2016-02-15T16:28:32.359Z'
-dateModified: '2016-02-15T16:28:28.236Z'
-title: 'Valentines Day!'
+description: ' '
+datePublished: '2016-02-15T16:30:38.109Z'
+dateModified: '2016-02-15T16:30:36.177Z'
+title: Sneaking a kiss with Mommy on Valentines Day at the Houston Zoo Carousel on Valentines Day 2016
 author: []
 sourcePath: _posts/2016-02-15-valentines-day.md
 published: true
@@ -22,4 +22,5 @@ url: valentines-day/index.html
 _type: Article
 
 ---
-![Sneaking a kiss with Mommy on Valentines Day at the Houston Zoo Carousel. ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e733fb8-3c64-4074-99de-57982a8f57fe.jpg)
+# Sneaking a kiss with Mommy on Valentines Day at the Houston Zoo Carousel on Valentines Day 2016
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/166320f6816de801544c04a6cf9a064e7e91ae01.jpg)
