@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T16:08:23.465Z'
-dateModified: '2016-02-15T16:08:19.495Z'
+datePublished: '2016-02-15T16:14:42.206Z'
+dateModified: '2016-02-15T16:14:39.761Z'
 title: 'Big fun in a big snow!'
 author: []
 sourcePath: _posts/2016-02-08-big-fun-in-a-big-snow.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: big-fun-in-a-big-snow/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Big fun in a big snow!
