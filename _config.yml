@@ -1,6 +1,6 @@
 name: 'Carson Man!'
 favicon: null
-layout_spectrum: 0.39252
+layout_spectrum: 0.24923
 typography_spectrum: 0.57087
 title: null
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0
   lightness: 0.5625
   saturation: 0.5625
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
